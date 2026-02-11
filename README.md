@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven AI and technology enthusiast specializing in software engineering, machine learning, and Retrieval-Augmented<br>Generation (RAG) systems. Experienced in building scalable, production-ready AI applications and integrating Large<br>Language Models (OpenAI, Gemini, Ollama) with vector databases (FAISS) using LangChain. Adept in end-to-end<br>development, cloud deployment, and process automation. Currently contributing to an industry project at UST Global on<br>Agentic AI and automation.
+Computer Science undergraduate focused on full-stack web development, with hands-on experience in designing scalable backend systems and dynamic web applications. Proficient in Node.js, Express, MongoDB, and modular MVC architectures. Enthusiastic about learning and applying AI technologies to enhance modern web platforms and build intelligent, data-driven solutions.
 
 
 ## 🌐 Socials:
