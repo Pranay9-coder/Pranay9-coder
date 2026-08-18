@@ -80,19 +80,6 @@ An AI-assisted coding environment designed to improve the developer problem-solv
 
 ---
 
-### 💰 Autonomous Finance Operations Agent
-
-An AI-agent-based automation concept for handling repetitive finance operations.
-
-**Tech:** Python · LangChain · LangGraph · RAG · LLMs · Vector Database
-
-- Automates repetitive finance workflows
-- Uses AI agents for task orchestration
-- Retrieves relevant information using RAG
-- Designed for human-in-the-loop approval workflows
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -167,22 +154,3 @@ Operating Systems
 Computer Networks
 System Design Fundamentals
 ```
-
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay9-coder&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranay9-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="95%"/>
-
-</div>
