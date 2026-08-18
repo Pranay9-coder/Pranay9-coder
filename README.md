@@ -169,5 +169,20 @@ System Design Fundamentals
 ```
 
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pranay9-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay9-coder&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Pranay9-coder&theme=tokyonight&hide_border=true"/> </div>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay9-coder&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranay9-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="95%"/>
+
+</div>
