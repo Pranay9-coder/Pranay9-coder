@@ -1,18 +1,168 @@
-# 💫 About Me:
-Computer Science undergraduate focused on full-stack web development, with hands-on experience in designing scalable backend systems and dynamic web applications. Proficient in Node.js, Express, MongoDB, and modular MVC architectures. Enthusiastic about learning and applying AI technologies to enhance modern web platforms and build intelligent, data-driven solutions.
+<!-- ======================= HEADER ======================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranayharne) 
+# Hi, I'm Pranay Harne 👋
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranay9-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pranay9-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay9-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### AI & Full-Stack Developer | GenAI Enthusiast | Problem Solver
+
+Building intelligent applications by combining  
+**Full-Stack Development + Generative AI + Automation**
+
+<p>
+  <a href="https://linkedin.com/in/pranayharne">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pranay9-coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranay9-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Computer Science undergraduate** focused on building scalable web applications and intelligent AI-powered systems.
+
+- 🔭 Currently working on **GenAI, Agentic AI & Full-Stack applications**
+- 🤖 Exploring **LangChain, LangGraph, RAG & LLM-based applications**
+- 💻 Experienced with **Node.js, Express.js, React.js & MongoDB**
+- 🧠 Strong foundation in **DSA, OOP, DBMS & System Design**
+- 🚀 Interested in **AI automation, intelligent agents & developer tools**
+- 📚 Continuously learning and building real-world projects
+
+---
+
+## 💼 Experience
+
+### 🏢 UST Global
+**AI & Full-Stack Development**
+
+- Worked on **AI-driven document automation and data-processing workflows**
+- Developed backend APIs and integrated **LLM-based extraction and summarization**
+- Optimized document parsing pipelines for engineering data
+
+### 🤖 AI Intern
+
+- Worked on **AI-based documentation and data extraction solutions**
+- Presented an AI documentation prototype at industry events
+- Explored automation of engineering-document processing workflows
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Interview Preparation Platform
+
+AI-powered platform designed to help candidates prepare for technical interviews.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · Google Gemini · JWT · Zod · Puppeteer
+
+- AI-generated interview questions
+- Intelligent interview evaluation
+- Automated feedback generation
+- Resume and interview preparation workflows
+
+---
+
+### 🧠 AI Coding Platform
+
+An AI-assisted coding environment designed to improve the developer problem-solving experience.
+
+**Tech:** React.js · Node.js · Express.js · Gemini API · MongoDB · AI
+
+- AI-assisted coding support
+- Intelligent problem-solving workflows
+- Backend APIs for AI interaction
+- Dynamic developer-focused interface
+
+---
+
+### 💰 Autonomous Finance Operations Agent
+
+An AI-agent-based automation concept for handling repetitive finance operations.
+
+**Tech:** Python · LangChain · LangGraph · RAG · LLMs · Vector Database
+
+- Automates repetitive finance workflows
+- Uses AI agents for task orchestration
+- Retrieves relevant information using RAG
+- Designed for human-in-the-loop approval workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🤖 AI / GenAI
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### 🧠 Machine Learning / Computer Vision
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-6C3483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+---
+
+## 🧩 Core Computer Science
+
+```text
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management Systems
+Operating Systems
+Computer Networks
+System Design Fundamentals
